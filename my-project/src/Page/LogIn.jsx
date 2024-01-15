@@ -17,7 +17,7 @@ function LogIn() {
     } else if (!passwordRegex.test(password)) {
       alert("Invalid password");
     } else {
-      axios.post(`https://65704b6109586eff6641121e.mockapi.io/users`, {
+      axios.post(`https://6572ffb0192318b7db415faf.mockapi.io/user`, {
         Name: Name,
         Email: Email,
         Password: password,
