@@ -43,9 +43,9 @@ function Home() {
     </div>
       <div className='bg-[#ccfbf1] p-8 flex flex-row justify-around'>
         <div className='p-4'>
-          <h1 className="font-bold text-3xl font-['Merriweather']">Find The Book</h1>
-          <h1 className="font-bold text-3xl font-['Merriweather']">You're Looking For</h1>
-          <h1 className="font-bold text-3xl font-['Merriweather']">Easier To Buy</h1>
+          <h1 className="font-bold text-3xl font-['Merriweather']">Find the book</h1>
+          <h1 className="font-bold text-3xl font-['Merriweather']">you want and</h1>
+          <h1 className="font-bold text-3xl font-['Merriweather']">buy it easily</h1>
           <div className='flex flex-row items-center'>
             <input
               className='rounded-md h-8 p-4'
